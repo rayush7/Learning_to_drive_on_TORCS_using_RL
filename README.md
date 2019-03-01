@@ -10,3 +10,4 @@ This repository contains code for Learning to Drive using TORCS simulator and Re
 [6] [TORCS for AI research](https://arxiv.org/pdf/1304.1672.pdf)  
 [7] [Python Client for TORCS](http://xed.ch/project/snakeoil/index.html)  
 [8] [vtorcs Code Base](https://github.com/giuse/vtorcs)  
+[9] [Gym_TORCS](https://github.com/ugo-nama-kun/gym_torcs)  
