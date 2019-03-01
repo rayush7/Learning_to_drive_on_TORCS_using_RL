@@ -7,6 +7,8 @@ The code has been tested on Ubuntu 18.04 with following specifications.
 * Keras 2.1
 * Tensorflow 1.12   
 
+Note: Please refer to specific resources below to install gym_torcs, vtorcs, gym, torcs.  
+
 #### Resources
 [1] [Continuous Control with Deep Reinforcement Learning](https://arxiv.org/pdf/1509.02971.pdf)  
 [2] [End-to-End Race Driving with Deep Reinforcement Learning](https://team.inria.fr/rits/files/2018/02/ICRA18_EndToEndDriving_CameraReady.pdf)  
