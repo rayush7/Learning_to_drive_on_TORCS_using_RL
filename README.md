@@ -7,3 +7,6 @@ This repository contains code for Learning to Drive using TORCS simulator and Re
 [3] [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/pdf/1602.01783.pdf)  
 [4] [Deep Reinforcement Learning for Simulated Autonomous Driving](http://cs229.stanford.edu/proj2016/report/Ganesh-Charalel-DasSarma-Xu-DeepReinforcementLearningForSimulatedAutonomousDriving-report.pdf)  
 [5] [Advantage Actor-Critic Methods for CarRacing](https://esc.fnwi.uva.nl/thesis/centraal/files/f285129090.pdf)  
+[6] [TORCS for AI research](https://arxiv.org/pdf/1304.1672.pdf)  
+[7] [Python Client for TORCS](http://xed.ch/project/snakeoil/index.html)  
+[8] [vtorcs Code Based](https://github.com/giuse/vtorcs)  
