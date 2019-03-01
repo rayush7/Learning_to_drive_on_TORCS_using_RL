@@ -9,4 +9,4 @@ This repository contains code for Learning to Drive using TORCS simulator and Re
 [5] [Advantage Actor-Critic Methods for CarRacing](https://esc.fnwi.uva.nl/thesis/centraal/files/f285129090.pdf)  
 [6] [TORCS for AI research](https://arxiv.org/pdf/1304.1672.pdf)  
 [7] [Python Client for TORCS](http://xed.ch/project/snakeoil/index.html)  
-[8] [vtorcs Code Based](https://github.com/giuse/vtorcs)  
+[8] [vtorcs Code Base](https://github.com/giuse/vtorcs)  
