@@ -6,6 +6,7 @@ The code has been tested on Ubuntu 18.04 with following specifications.
 * Python 2.7
 * Keras 2.1
 * Tensorflow 1.12   
+* Gym 0.10
 
 Note: Please refer to specific resources below to install gym_torcs, vtorcs, gym, torcs.  
 
