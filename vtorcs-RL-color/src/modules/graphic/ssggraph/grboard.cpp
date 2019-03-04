@@ -845,12 +845,12 @@ void cGrBoard::refreshBoard(tSituation *s, float Fps, int forceArcade, tCarElt *
 	} else {
 		//if (debugFlag) grDispDebug(Fps, curr);
 		if (GFlag) grDispGGraph(curr);
-		//if (boardFlag) grDispCarBoard(curr, s);
-		//if (leaderFlag)	grDispLeaderBoard(curr, s);
-		//if (counterFlag) grDispCounterBoard2(curr);
+		if (boardFlag) grDispCarBoard(curr, s);
+		if (leaderFlag)	grDispLeaderBoard(curr, s);
+		if (counterFlag) grDispCounterBoard2(curr);
 	}
 
-	//trackMap->display(curr, s, Winx, Winy, Winw, Winh);
+	trackMap->display(curr, s, Winx, Winy, Winw, Winh);
 }
 
 
