@@ -14,6 +14,9 @@ The code has been tested on Ubuntu 18.04 with following specifications.
 
 Note: Please refer to specific resources below to install gym_torcs, vtorcs, gym, torcs.  
 
+#### To Run the Code
+python ddpg.py  
+
 #### Resources
 [1] [Continuous Control with Deep Reinforcement Learning](https://arxiv.org/pdf/1509.02971.pdf)  
 [2] [End-to-End Race Driving with Deep Reinforcement Learning](https://team.inria.fr/rits/files/2018/02/ICRA18_EndToEndDriving_CameraReady.pdf)  
