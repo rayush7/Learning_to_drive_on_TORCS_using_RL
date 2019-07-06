@@ -1,6 +1,10 @@
 # Learning_to_drive_on_TORCS_using_RL
 This repository contains code for Learning to Drive using TORCS simulator and Reinforcement Learning. This project is done as a part of our Reinforcement Learning Course Project for RL Course offered at Ecole CentraleSupelec, 2018.  
 
+[Project Report](Learning_to_Play_TORCS_Reinforcement_Learning_Project_Report_RAI_KAI_LAURES_DHADE.pdf)
+
+[Video Result](https://www.youtube.com/watch?v=Ok4Uv5jgUDs&t=155s)
+
 #### Dependencies
 The code has been tested on Ubuntu 18.04 with following specifications.  
 * Python 2.7
