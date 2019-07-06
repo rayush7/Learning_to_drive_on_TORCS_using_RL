@@ -1,0 +1,2 @@
+TORCS_BASE = /home/ayush/Learning_to_drive_on_TORCS_using_RL/vtorcs-RL-color
+MAKE_DEFAULT = /home/ayush/Learning_to_drive_on_TORCS_using_RL/vtorcs-RL-color/Make-default.mk
