@@ -1,5 +1,5 @@
 # Learning_to_drive_on_TORCS_using_RL
-This repository contains code for Learning to Drive using TORCS simulator and Reinforcement Learning. This project is done as a part of our Reinforcement Learning Course Project for RL Course offered at Ecole CentraleSupelec, 2018.  
+This repository contains code for Learning to Drive using TORCS simulator and Reinforcement Learning. This project is done as a part of our Reinforcement Learning Course Project for RL Course offered at Ecole CentraleSupelec, 2018.  The project was done in collaboration with [Kai-Wei TSOU](https://github.com/KWTsou1220) and [Benoit Laures](https://github.com/BenoitLaures).  
 
 [Project Report](Learning_to_Play_TORCS_Reinforcement_Learning_Project_Report_RAI_KAI_LAURES_DHADE.pdf)
 
